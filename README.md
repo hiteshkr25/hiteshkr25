@@ -1,23 +1,712 @@
-https://drive.google.com/file/d/1w1vgJoqSD4htZGOr7wFYEGjfS6sxvBOI/view?utm_referrer=sp_auto_dm&fbclid=PAT01DUAS_IplleHRuA2FlbQIxMABzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAadD4gZTK-4KJicaEsKyNUnQk3HcHLrh5mqmsOhJEwd8dN_EjGkdHqzENjouYg_aem_2gpbooxIpj8W8G3BoZFF3w
+<div align="center">
 
-# 💫 About Me:
-Hi, I'm Hitesh Kumar 👋<br><br>🎓 Final-year B.Tech student passionate about Software Development, Backend Engineering, and AI-powered applications.<br><br>💻 I enjoy building real-world projects with Python, Flask, PostgreSQL, and modern web technologies while strengthening my problem-solving skills through Data Structures & Algorithms.<br><br>🚀 Currently focused on:<br>- Backend Development<br>- Open Source Contributions<br>- System Design Fundamentals<br>- Placement Preparation<br><br>Always learning, building, and improving one project at a time.
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:4C1D95,30:5B21B6,60:6D28D9,100:7C3AED&text=Hitesh%20Kumar&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20Developer%20%7C%20Open%20Source%20Contributor&descAlignY=58"/>
 
+<br/>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hitesh-kumar-674653291) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hiteshkr531@gmail.com) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&duration=3500&pause=900&color=8B5CF6&center=true&vCenter=true&width=900&lines=Final+Year+Computer+Science+Student;Backend+Developer;Building+AI-Powered+Applications;Open+Source+Contributor;Always+Learning+Always+Building)](https://git.io/typing-svg)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=hiteshkr25&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=hiteshkr25&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=hiteshkr25&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hiteshkr25&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://img.shields.io/badge/B.Tech-CSE-4F46E5?style=for-the-badge)
+![](https://img.shields.io/badge/Graphic%20Era%20University-Final%20Year-6D28D9?style=for-the-badge)
+![](https://img.shields.io/badge/CGPA-7.64-7C3AED?style=for-the-badge)
+
+<br/>
+
+<a href="mailto:hiteshkr531@gmail.com">
+<img src="https://img.shields.io/badge/Email-6D28D9?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/hiteshkr25">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://www.linkedin.com/in/">
+<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<br/>
+
+![](https://komarev.com/ghpvc/?username=hiteshkr25&style=for-the-badge&color=6D28D9)
+
+![](https://img.shields.io/github/followers/hiteshkr25?style=for-the-badge&color=6D28D9)
+
+![](https://img.shields.io/github/stars/hiteshkr25?affiliations=OWNER&style=for-the-badge&color=6D28D9)
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=hiteshkr25&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# About Me
+
+I'm a **Final-Year Computer Science Engineering student** passionate about building scalable software systems, intelligent products, and backend architectures that solve real-world problems.
+
+My primary interests lie in **Software Engineering, Backend Development, Distributed Systems, Artificial Intelligence, Cloud Computing, and Product Engineering**. I enjoy transforming ideas into production-ready applications with clean architecture, maintainable code, and user-centric design.
+
+Over the past year I've built multiple end-to-end applications involving:
+
+- Enterprise Workflow Systems
+- AI-assisted Recruitment Platforms
+- Drone Logistics Simulation
+- Data Analytics Dashboards
+- REST API Development
+- Database Design
+- Authentication & Authorization
+- System Architecture
+
+I'm continuously improving my engineering skills through **Data Structures & Algorithms**, open-source contributions, and by building increasingly complex software projects.
+
+## Open To
+
+- Software Development Engineer (SDE)
+- Backend Engineering
+- Open Source Contributions
+- Software Engineering Internships
+- Product Engineering
+
+---
+
+# Tech Stack
+
+## Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=cpp,c,java,python,js"/>
+
+</p>
+
+---
+
+## Frontend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react"/>
+
+</p>
+
+---
+
+## Backend & Databases
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=flask,nodejs,postgres,mongodb,mysql"/>
+
+</p>
+
+---
+
+## Cloud, DevOps & Tooling
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,postman,vscode"/>
+
+</p>
+
+---
+
+# AI / ML Expertise
+
+| Domain | Proficiency | Details |
+|----------|------------|---------|
+| Resume Parsing | Advanced | Intelligent resume parsing workflows |
+| ATS Ranking | Advanced | Candidate ranking using AI-assisted evaluation |
+| Recommendation Systems | Intermediate | Candidate and job matching logic |
+| Data Analytics | Advanced | Dashboard development and engagement analytics |
+| Backend AI Integration | Advanced | Flask-based AI module integration |
+| REST API Development | Advanced | Secure and scalable backend APIs |
+| SQL & Database Design | Advanced | PostgreSQL, MongoDB, SQL optimization |
+| Workflow Automation | Advanced | Recruitment workflow automation |
+
+---
+
+# Featured Projects
+
+<details open>
+
+<summary>
+
+# CampusHire AI
+
+Enterprise AI-Powered Campus Recruitment Platform
+
+</summary>
+
+<br>
+
+| Category | Details |
+|------------|---------|
+| **Stack** | Flask • PostgreSQL • Bootstrap • Python • JavaScript |
+| **Architecture** | Multi-role Enterprise Platform |
+| **Security** | Authentication, Authorization, Role-based Access |
+| **Database** | PostgreSQL |
+| **Impact** | Complete Recruitment Workflow Automation |
+| **Repository** | https://github.com/hiteshkr25/Campushire-ai |
+
+### Overview
+
+CampusHire AI is a comprehensive campus recruitment platform designed to digitize and automate the placement process for educational institutions.
+
+The platform provides dedicated dashboards for Students, Recruiters, Training & Placement Officers, and Administrators while integrating AI-assisted candidate evaluation to streamline hiring workflows.
+
+### Key Features
+
+- Resume Repository
+- Resume Parsing
+- ATS Candidate Ranking
+- Placement Drive Management
+- Student Verification
+- Eligibility Engine
+- Recruiter Dashboard
+- Interview Scheduling
+- Offer Management
+- Placement Analytics
+- Notifications
+- Audit Logs
+- Admin Dashboard
+- AI-assisted Recruitment
+
+</details>
+
+---
+
+<details>
+
+<summary>
+
+# SwiftPath Drone Delivery System
+
+Intelligent Drone Logistics & Route Optimization Platform
+
+</summary>
+
+<br>
+
+| Category | Details |
+|------------|---------|
+| **Stack** | Flask • SQLAlchemy • PostgreSQL • JavaScript |
+| **Routing Engine** | Dijkstra's Algorithm |
+| **Architecture** | Modular Backend |
+| **Performance** | Optimized Route Planning |
+| **Security** | Authentication & Data Validation |
+| **Repository** | https://github.com/hiteshkr25/Swiftpath |
+
+### Overview
+
+SwiftPath is a full-stack drone delivery simulation platform that demonstrates how intelligent route optimization can improve delivery efficiency.
+
+The project combines graph algorithms, logistics visualization, warehouse management, live tracking, weather awareness, analytics dashboards, and operational monitoring into a single engineering-focused application.
+
+### Highlights
+
+- Dijkstra Route Optimization
+- Live Fleet Tracking
+- Mission Control Dashboard
+- Warehouse Network
+- Delivery Analytics
+- Route Visualization
+- Weather Alerts
+- Interactive Maps
+- REST APIs
+- PostgreSQL Integration
+
+</details>
+
+---
+
+<details>
+
+<summary>
+
+# Feature Usage & Engagement Analytics System
+
+Product Analytics Platform
+
+</summary>
+
+<br>
+
+| Category | Details |
+|------------|---------|
+| **Stack** | React • Node.js • MongoDB |
+| **Purpose** | Product Analytics |
+| **Visualization** | Interactive Dashboards |
+| **Backend** | REST APIs |
+| **Impact** | Data-driven Product Decisions |
+| **Repository** | *Coming Soon* |
+
+### Overview
+
+A modern analytics platform that measures feature adoption, user engagement, and behavioral trends through real-time event tracking and dashboard visualizations.
+
+The platform enables organizations to understand how users interact with products, identify feature adoption patterns, and make informed product decisions using actionable analytics.
+
+### Core Modules
+
+- User Event Tracking
+- Feature Adoption Metrics
+- Session Analytics
+- Product Dashboards
+- Real-time Insights
+- Engagement Reports
+- REST API Services
+
+</details>
+
+---
+# Experience
+
+> *Currently building production-grade software projects and actively preparing for Software Engineering opportunities.*
+
+---
+
+### Software Engineering Projects
+
+**Independent Developer**  
+**2025 – Present**
+
+Designing and developing full-stack applications focused on solving real-world problems using modern backend technologies, databases, REST APIs, and software engineering best practices.
+
+#### Scope of Work
+
+- Architecting scalable backend systems using Flask and Node.js
+- Designing normalized relational database schemas
+- Building secure authentication & role-based authorization
+- Developing RESTful APIs following modular architecture
+- Implementing graph algorithms and optimization techniques
+- Integrating AI-assisted workflows into enterprise applications
+- Developing analytics dashboards and visualization tools
+- Applying Git-based collaborative development practices
+
+**Skills**
+
+`Python` `Flask` `PostgreSQL` `Node.js` `REST APIs`
+`SQLAlchemy` `Git` `GitHub`
+`JavaScript` `System Design`
+`Backend Development`
+
+---
+
+### Professional Experience
+
+> 🚧 **Reserved for upcoming Internship / SDE Experience**
+
+This section will be updated as I gain professional industry experience.
+
+---
+
+# Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|-------------|----------|
+| 🏆 DSA | Solved **300+** Data Structures & Algorithms problems across LeetCode & GeeksforGeeks |
+| 🚀 Software Engineering | Built multiple production-scale full-stack applications |
+| 🤖 AI Engineering | Developed AI-assisted Resume Parsing & ATS Ranking workflows |
+| 📈 Backend Development | Designed scalable REST APIs and enterprise workflow systems |
+| 🌐 Open Source | Actively preparing to contribute to impactful open-source projects |
+| 📚 Continuous Learning | Regularly learning Backend Architecture, Cloud, and System Design |
+
+</div>
+
+---
+
+# Certifications
+
+## Google
+
+<p>
+
+<img src="https://img.shields.io/badge/Google-Data%20Analytics%20Professional%20Certificate-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+
+</p>
+
+---
+
+## AWS
+
+<p>
+
+<img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner%20Essentials-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+</p>
+
+---
+
+## ServiceNow
+
+<p>
+
+<img src="https://img.shields.io/badge/ServiceNow-Virtual%20Internship-00C853?style=for-the-badge&logo=servicenow&logoColor=white"/>
+
+</p>
+
+---
+
+## Oracle
+
+> *Planned Future Certifications*
+
+![](https://img.shields.io/badge/Oracle%20Database-In%20Progress-C74634?style=for-the-badge&logo=oracle)
+
+---
+
+## Cisco
+
+> *Planned Future Certifications*
+
+![](https://img.shields.io/badge/Cisco-Networking-In%20Progress-1BA0D7?style=for-the-badge&logo=cisco)
+
+---
+
+## NPTEL
+
+> *Planned Future Certifications*
+
+![](https://img.shields.io/badge/NPTEL-Courses-Planned-6D28D9?style=for-the-badge)
+
+---
+
+# Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/hiteshkr25/">
+
+<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://www.geeksforgeeks.org/profile/hiteshh4ms">
+
+<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
+
+</a>
+
+&nbsp;&nbsp;
+
+<img src="https://img.shields.io/badge/HackerRank-Coming%20Soon-00EA64?style=for-the-badge&logo=hackerrank"/>
+
+&nbsp;&nbsp;
+
+<img src="https://img.shields.io/badge/CodeChef-Coming%20Soon-5B4638?style=for-the-badge&logo=codechef"/>
+
+</div>
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=hiteshkr25&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
+
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=hiteshkr25&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshkr25&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=hiteshkr25&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4"/>
+
+</div>
+
+---
+
+# Engineering Philosophy
+
+<div align="center">
+
+| Principle | Description |
+|------------|-------------|
+| Clean Code | Build maintainable and readable software |
+| Scalability | Design systems that grow efficiently |
+| Performance | Optimize algorithms before hardware |
+| Security | Build secure applications by design |
+| Reliability | Prioritize stability and correctness |
+| Continuous Learning | Improve through consistent practice and building |
+
+</div>
+
+---
+
+# Engineering Interests
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+### Backend Engineering
+
+- REST APIs
+- Authentication
+- Authorization
+- Database Design
+- System Architecture
+- Performance Optimization
+
+</td>
+
+<td width="50%">
+
+### Artificial Intelligence
+
+- Resume Parsing
+- ATS Ranking
+- AI-assisted Applications
+- Analytics
+- Recommendation Systems
+- Intelligent Automation
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### Software Engineering
+
+- Scalable Systems
+- Design Patterns
+- Clean Architecture
+- Git Workflows
+- Testing
+- Documentation
+
+</td>
+
+<td>
+
+### Cloud & DevOps
+
+- Docker
+- Kubernetes
+- AWS
+- CI/CD
+- Deployment
+- Monitoring
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# What I'm Looking For
+
+- Software Engineering Internship
+- Backend Developer Roles
+- SDE-1 Opportunities
+- Open Source Collaboration
+- Engineering Mentorship
+- Challenging Real-World Projects
+
+---
+# Contribution Activity
+
+<div align="center">
+
+[![Hitesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hiteshkr25&theme=tokyo-night&hide_border=true&area=true&bg_color=0D1117&color=8B5CF6&line=7C3AED&point=A855F7)](https://github.com/hiteshkr25)
+
+</div>
+
+---
+
+# Contribution Snake
+
+<div align="center">
+
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hiteshkr25/hiteshkr25/output/github-contribution-grid-snake-dark.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hiteshkr25/hiteshkr25/output/github-contribution-grid-snake.svg">
+<img alt="github contribution snake animation" src="https://raw.githubusercontent.com/hiteshkr25/hiteshkr25/output/github-contribution-grid-snake-dark.svg">
+</picture>
+
+</div>
+
+> **Note:** The snake animation will work after creating the GitHub Action workflow in your profile repository.
+
+---
+
+# Development Metrics
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hiteshkr25&theme=tokyonight"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hiteshkr25&theme=tokyonight" width="48%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hiteshkr25&theme=tokyonight" width="48%"/>
+
+<br><br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hiteshkr25&theme=tokyonight" width="48%"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hiteshkr25&theme=tokyonight&utcOffset=5.5" width="48%"/>
+
+</div>
+
+---
+
+# Current Focus
+
+```yaml
+Current:
+  Role: Final Year Computer Science Student
+
+Learning:
+  - System Design
+  - Backend Architecture
+  - Docker
+  - Kubernetes
+  - AWS
+  - Distributed Systems
+  - Design Patterns
+  - Scalable REST APIs
+
+Building:
+  - CampusHire AI
+  - SwiftPath Drone Delivery Platform
+  - Open Source Contributions
+  - Enterprise Backend Projects
+
+Exploring:
+  - Cloud Native Applications
+  - AI Powered Systems
+  - Microservices
+  - High Performance APIs
+  - DevOps Workflows
+
+Preparing:
+  - Software Engineering Interviews
+  - Data Structures & Algorithms
+  - Low Level Design
+  - High Level Design
+
+Open To:
+  - Software Development Engineer
+  - Backend Developer
+  - Open Source Contributor
+  - Internship Opportunities
+  - Product Engineering
+
+Mission:
+  Build software that solves real-world problems through
+  scalable engineering and continuous learning.
+```
+
+---
+
+# 2026 Goals
+
+<div align="center">
+
+| Goal | Status |
+|------|--------|
+| Solve 500+ DSA Problems | 🔄 In Progress |
+| Open Source Contributions | 🔄 In Progress |
+| Backend Engineering Mastery | 🔄 In Progress |
+| System Design | 🔄 Learning |
+| Docker & Kubernetes | 🔄 Learning |
+| AWS Cloud | 🔄 Learning |
+| Software Engineering Internship | 🎯 Target |
+| SDE-1 Role | 🎯 Target |
+
+</div>
+
+---
+
+# Let's Connect
+
+<div align="center">
+
+<a href="mailto:hiteshkr531@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-hiteshkr531%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+<br><br>
+
+<a href="https://github.com/hiteshkr25">
+
+<img src="https://img.shields.io/badge/GitHub-hiteshkr25-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://www.linkedin.com/in/">
+
+<img src="https://img.shields.io/badge/LinkedIn-Hitesh%20Kumar-0A66C2?style=for-the-badge&logo=linkedin"/>
+
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://leetcode.com/u/hiteshkr25/">
+
+<img src="https://img.shields.io/badge/LeetCode-hiteshkr25-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+
+</a>
+
+&nbsp;&nbsp;
+
+<a href="https://www.geeksforgeeks.org/profile/hiteshh4ms">
+
+<img src="https://img.shields.io/badge/GeeksforGeeks-hiteshh4ms-2F8D46?style=for-the-badge&logo=geeksforgeeks"/>
+
+</a>
+
+</div>
+
+---
+
+# Support My Work
+
+<div align="center">
+
+If you find my projects useful, consider giving them a ⭐.
+
+Open to collaborating on impactful software engineering and open-source projects.
+
+</div>
+
+---
+
+<div align="center">
+
+### *"Great software is built through curiosity, consistency, and continuous improvement."*
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:4C1D95,40:5B21B6,70:6D28D9,100:7C3AED"/>
+
+</div>
