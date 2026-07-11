@@ -64,7 +64,8 @@ Analytics platform for tracking feature adoption and user engagement with real-t
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hiteshkr25&theme=github_dark"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hiteshkr25&theme=github_dark"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hiteshkr25&theme=github-dark&hide_border=true"/>
+
 </p>
 
 ---
@@ -72,7 +73,6 @@ Analytics platform for tracking feature adoption and user engagement with real-t
 ## Connect
 
 - 📧 hiteshkr531@gmail.com
-- 💼 LinkedIn
+- 💼 LinkedIn: https://www.linkedin.com/in/hitesh-kumar-674653291/
 - 💻 GitHub: https://github.com/hiteshkr25
 - 🟨 LeetCode: https://leetcode.com/u/hiteshkr25/
-- 🟩 GeeksforGeeks: https://www.geeksforgeeks.org/profile/hiteshh4ms
