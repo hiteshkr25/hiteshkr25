@@ -49,11 +49,15 @@ Analytics platform for tracking feature adoption and user engagement with real-t
 
 ---
 
-## GitHub Stats
+## 📈 GitHub Overview
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hiteshkr25&show_icons=true&theme=github_dark&hide_border=true&cache_seconds=86400"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiteshkr25&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hiteshkr25&theme=github_dark"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hiteshkr25&theme=github_dark"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=hiteshkr25&theme=github_dark"/>
 </p>
 
 ---
