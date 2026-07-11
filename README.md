@@ -73,6 +73,6 @@ Analytics platform for tracking feature adoption and user engagement with real-t
 ## Connect
 
 - 📧 hiteshkr531@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/hitesh-kumar-674653291/
+- 💼 LinkedIn: https://www.linkedin.com/in/hiteshkr25/
 - 💻 GitHub: https://github.com/hiteshkr25
 - 🟨 LeetCode: https://leetcode.com/u/hiteshkr25/
