@@ -16,24 +16,31 @@ Backend Developer • Python • Flask • PostgreSQL • Open Source
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-**Languages**
+### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,c,java,python,js" />
+</p>
 
-**Backend**
+### Frontend
 
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind" />
+</p>
 
-**Database**
+### Backend & Databases
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flask,nodejs,express,postgres,mongodb,mysql" />
+</p>
 
+### Cloud & DevOps
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,postman,vscode" />
+</p>
 ---
 
 ## Featured Projects
