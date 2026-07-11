@@ -41,6 +41,8 @@ Backend Developer • Python • Flask • PostgreSQL • Open Source
 <p align="left">
   <img src="https://skillicons.dev/icons?i=aws,git,github,postman,vscode" />
 </p>
+
+
 ---
 
 ## Featured Projects
