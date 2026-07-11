@@ -8,7 +8,6 @@ Backend Developer • Python • Flask • PostgreSQL • Open Source
 
 ## About Me
 
-- 🎓 Final-year B.Tech CSE student at Graphic Era Deemed University
 - 💻 Passionate about Backend Development and Software Engineering
 - 🚀 Currently building scalable web applications and contributing to open source
 - 🌱 Learning System Design, Docker, Kubernetes, and AWS
