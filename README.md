@@ -1,3 +1,5 @@
+https://drive.google.com/file/d/1w1vgJoqSD4htZGOr7wFYEGjfS6sxvBOI/view?utm_referrer=sp_auto_dm&fbclid=PAT01DUAS_IplleHRuA2FlbQIxMABzcnRjBmFwcF9pZA81NjcwNjczNDMzNTI0MjcAAadD4gZTK-4KJicaEsKyNUnQk3HcHLrh5mqmsOhJEwd8dN_EjGkdHqzENjouYg_aem_2gpbooxIpj8W8G3BoZFF3w
+
 # 💫 About Me:
 Hi, I'm Hitesh Kumar 👋<br><br>🎓 Final-year B.Tech student passionate about Software Development, Backend Engineering, and AI-powered applications.<br><br>💻 I enjoy building real-world projects with Python, Flask, PostgreSQL, and modern web technologies while strengthening my problem-solving skills through Data Structures & Algorithms.<br><br>🚀 Currently focused on:<br>- Backend Development<br>- Open Source Contributions<br>- System Design Fundamentals<br>- Placement Preparation<br><br>Always learning, building, and improving one project at a time.
 
