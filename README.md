@@ -27,7 +27,7 @@ Backend Developer • Python • Flask • PostgreSQL • Open Source
 ### Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,tailwind" />
 </p>
 
 ### Backend & Databases
@@ -39,7 +39,7 @@ Backend Developer • Python • Flask • PostgreSQL • Open Source
 ### Cloud & DevOps
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,git,github,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=aws,git,github,postman,vscode" />
 </p>
 ---
 
