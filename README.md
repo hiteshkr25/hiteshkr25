@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hitesh Kumar</h1>
 
 <p align="center">
-Backend Developer • Python • Flask • PostgreSQL • Open Source
+Software Development • Python • Flask • PostgreSQL • Open Source
 </p>
 
 ---
@@ -32,7 +32,7 @@ Backend Developer • Python • Flask • PostgreSQL • Open Source
 ### Backend & Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flask,nodejs,express,postgres,mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=flask,nodejs,postgres,mongodb" />
 </p>
 
 ### Cloud & DevOps
