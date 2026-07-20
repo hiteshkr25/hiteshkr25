@@ -6,12 +6,12 @@ Backend Developer • Python • Flask • PostgreSQL • Open Source
 
 ---
 
-## About Me
+## 👋 About Me
 
-- 💻 Passionate about Backend Development and Software Engineering
-- 🚀 Currently building scalable web applications and contributing to open source
-- 🌱 Learning System Design, Docker, Kubernetes, and AWS
-- 🎯 Open to SDE, Backend Developer, and Internship opportunities
+- 👨‍💻 Computer Science student passionate about software development.
+- 🚀 Enjoy building full-stack projects and learning backend technologies.
+- 📈 Improving my skills through DSA, hands-on projects, and continuous learning.
+- 🤝 Looking for opportunities to grow as a Software Engineer.
 
 ---
 
